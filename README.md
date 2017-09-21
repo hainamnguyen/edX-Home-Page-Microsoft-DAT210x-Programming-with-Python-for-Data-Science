@@ -1,7 +1,5 @@
 # DAT210x
-Programming with Python for Data Science Microsoft
-
-By Authman Apatira
+Programming with Python for Data Science Microsoft.
 
 ## Current Offering
 
